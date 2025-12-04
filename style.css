@@ -1,0 +1,140 @@
+.menu{
+    width: 100%;
+    height: 50px;
+    background-color: white;
+}
+
+.logotype{
+    width: 100%;
+    height: 300px;
+    background-color: rgb(212, 204, 204);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+header{
+    background-color: black;
+    position: sticky;
+    left: 0;
+    top: 0;
+}
+a:hover{
+    color: rgb(203, 203, 203);
+}
+a:active{
+    color: rgb(255, 255, 255);
+}
+main{
+        display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.machine{
+        display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nihego{
+    width: 500px;;
+}
+
+img{
+margin-right: 100px;
+margin-left: 100px;
+}
+
+p{
+font-size: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main{
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 45px;
+    color: rgb(255 ,255 ,255);
+    width: 12%;
+    flex-direction: column;
+    border-radius: 15px;
+    margin-bottom: 35px;
+} */
+form, footer{
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+     background-color: azure; 
+
+}
+
+.blue{
+    background-color: azure;
+}
+
+input{
+    font-size: 35px;
+    margin: 15px;
+    border-radius: 50px;
+}
+
+button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 45px;
+    background-color: rgb(63, 80, 207);
+    color: rgb(255 ,255 ,255);
+    width: 30%;
+    flex-direction: column;
+    border-radius: 15px;
+    margin-bottom: 35px;
+    margin-top: 150px;
+}
+
+sfr{
+    border-radius: 0%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.order{
+    color:white;
+}
+
+.milion{
+    color:rgb(255, 250, 250);
+    text-decoration: none;
+}
+.bilion{
+    display:flex;
+    justify-content: left;
+    list-style: none;
+}
+
+.miliard{
+    display:flex;
+    justify-content: left;
+    align-items: center;
+}
+.trilion{
+    margin: 0px 20px;
+}
+/* header>a{
+    color: rgb(80, 80, 80);    
+} */
